@@ -1,13 +1,41 @@
-<h1 align="center">Hi 👋, I'm Diana Rodrigues</h1>
-<h3 align="center">I am a highly motivated, active and committed person in all the challenges I take on. I like to develop new tools to improve people's lives and learn more. In recent years, I have been working in the chemistry area, more precisely in academy research. However, I didn't develop my skills as I wanted and therefore I decided to change my career recently. I started by taking a course in Web Development area and I enjoyed working with these technologies. So, I am looking for a new challenge for my career and for my personal and professional growth.</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dianarsrodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dianarsrodrigues" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left">My name is Diana Rodrigues and I'm a Software Developer Student.</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dianarsrodrigues&show_icons=true&locale=en&layout=compact" alt="dianarsrodrigues" /></p>
+###
 
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">I am a highly motivated, active and committed person in all the challenges I take on. <br>I like to develop new tools to improve people's lives and learn more. <br>In recent years, I have been working in the chemistry area, more precisely in academy research. <br>However, I didn't develop my skills as I wanted and therefore I decided to change my career recently. <br>I started by taking a course in Web Development area and I enjoyed working with these technologies. <br>So, I am looking for a new challenge for my career and for my personal and professional growth.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dianarsrodrigues&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
